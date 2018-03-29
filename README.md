@@ -19,4 +19,3 @@ Our lessons include taking more time to shape our ideas, e.g., ideation prior to
 What's next for esusu
 
 We plan to launch our platform this year! Our team plan on continuiing this project after this hackathon.
-Built With
